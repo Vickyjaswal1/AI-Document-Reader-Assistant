@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables — never push this
+.env
+
+# ChromaDB local storage
+chroma_db/
+
+# Node
+node_modules/
+build/
