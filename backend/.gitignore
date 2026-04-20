@@ -1,0 +1,13 @@
+# Virtual environment — never push this
+venv/
+
+# Environment variables — never push API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB local storage
+chroma_db/
